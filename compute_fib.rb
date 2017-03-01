@@ -1,4 +1,4 @@
-# Write a function fib() that a takes an integer nn and returns the nnth fibonacci ↴ number.
+# Write a function fib() that a takes an integer nn and returns the nnth fibonacci number.
 
 def fib(n)
 
